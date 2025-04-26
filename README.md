@@ -12,9 +12,8 @@ The Deep Research AI Agentic System is a dual-agent system designed to crawl web
 - Acknowledgments
 
 ## Installation
-1. Clone the repository: git clone https://github.com/your-username/deep-research-ai-agent.git
-                         cd deep-research-ai-agent
-2. Install required dependencies: pip install -r requirements.txt
+1. Clone the repository
+2. Install required dependencies
 
 ## Usage
 1. Set up environment variables:

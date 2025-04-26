@@ -23,9 +23,9 @@ The Deep Research AI Agentic System is a dual-agent system designed to crawl web
 3. Viewing the Result: Once the system completes its task, it will output a structured and informative answer based on the research data collected.
 
 ## Agents
-- Research Agent
+1. Research Agent:
   - The Research Agent is responsible for crawling websites and collecting relevant data based on the input query. It retrieves the first few pages from search results and scrapes useful content.
-- Answer Drafter Agent
+2. Answer Drafter Agent:
  - The Answer Drafter Agent processes the data gathered by the Research Agent. It drafts a clear and concise answer by leveraging LangChain and Groq to organize the content and generate a well-structured response.
    
 ## Technologies Used
